@@ -1,5 +1,5 @@
-`cd app`
-`yarn install`
-
-`yarn web` works
-`yarn native` fails
+`cd app`  
+`yarn install`  
+  
+`yarn web` works  
+`yarn native` fails  
