@@ -2,5 +2,15 @@
   "name": "@workspaces-test/lib",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@lawallet/nostr-tools": "^1.17.0",
+    "@nostr-dev-kit/ndk": "^2.8.1",
+    "nostr": "^0.2.8",
+    "nostr-tools": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.8"
+  }
 }
